@@ -1,0 +1,30 @@
+_repo: The-provincial-American-and-other-papers_68318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
+description: ''
+gutenberg_issued: '2022-06-14'
+identifiers:
+  gutenberg: '68318'
+language: en
+pgterms:marc904: https://archive.org/details/provincialameric00nichuoft/page/n7/mode/2up
+pgterms:marc905: 20210914142630nicholson
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was created from images of public domain
+  material made available by the University of Toronto Libraries.)
+publication_note: United Kingdom :Constable & Co. Limited,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The provincial American and other papers
+url: http://www.gutenberg.org/ebooks/68318
